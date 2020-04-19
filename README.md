@@ -8,3 +8,5 @@ A 10 days UI challenge by Tinkerhub Foundation.
 ![Empty state screen](https://github.com/itexpert2572000/10_Days_UI_Design/blob/master/images/day%203.jpg)
 ## DAY 4 Pricing screen
 ![Pricing screen](https://github.com/itexpert2572000/10_Days_UI_Design/blob/master/images/day%204.jpg)
+## DAY 5 Onboarding screen
+![Onboarding screen](https://github.com/itexpert2572000/10_Days_UI_Design/blob/master/images/day%205.jpg)
