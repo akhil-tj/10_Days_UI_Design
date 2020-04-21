@@ -19,3 +19,5 @@ A 10 days UI challenge by Tinkerhub Foundation.
 ## DAY 6 TO-DO list screen
 ![TO-DO list screen](https://github.com/itexpert2572000/10_Days_UI_Design/blob/master/images/day%206.jpg)
 
+## DAY 7 Weather screen
+![Weather screen](https://github.com/itexpert2572000/10_Days_UI_Design/blob/master/images/day%207.jpg)
