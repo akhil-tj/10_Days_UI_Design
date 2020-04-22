@@ -21,3 +21,6 @@ A 10 days UI challenge by Tinkerhub Foundation.
 
 ## DAY 7 Weather screen
 ![Weather screen](https://github.com/itexpert2572000/10_Days_UI_Design/blob/master/images/day%207.jpg)
+
+## DAY 8 User profile screen
+![User profile screen](https://github.com/itexpert2572000/10_Days_UI_Design/blob/master/images/day%208.jpg)
