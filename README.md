@@ -24,3 +24,6 @@ A 10 days UI challenge by Tinkerhub Foundation.
 
 ## DAY 8 User profile screen
 ![User profile screen](https://github.com/itexpert2572000/10_Days_UI_Design/blob/master/images/day%208.jpg)
+
+## DAY 9 Music palyer
+![Music player](https://github.com/itexpert2572000/10_Days_UI_Design/blob/master/images/day%209.jpg)
