@@ -27,3 +27,6 @@ A 10 days UI challenge by Tinkerhub Foundation.
 
 ## DAY 9 Music palyer
 ![Music player](https://github.com/itexpert2572000/10_Days_UI_Design/blob/master/images/day%209.jpg)
+
+## DAY 10 Shopping cart
+![Shopping cart](https://github.com/itexpert2572000/10_Days_UI_Design/blob/master/images/day%2010.jpg)
